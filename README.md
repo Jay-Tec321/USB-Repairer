@@ -28,4 +28,4 @@
    ```bash
    git clone https://github.com/your-username/usb-repairer.git
    cd usb-repairer
-![USB Repairer Interface](C:/Users/Joseph/Pictures/usb_repairer_image1)
+
